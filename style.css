@@ -1,0 +1,21 @@
+#Firstpara{
+    background-image: url(/Image/istockphoto-1248542684-612x612.jpg);
+    border: 4px solid greenyellow;
+    width: fit-content;
+}
+
+#Secondpara{
+    background-image: url(/Image/Image2.jpg);
+    border: 4px solid blue;
+    width: fit-content;
+}
+
+#Thirdpara{
+    background-image: url(/Image/image3.jpg);
+    border: 4px solid orange;
+    width: fit-content;
+}
+
+p{
+    color: rgb(85, 7, 7);
+}
